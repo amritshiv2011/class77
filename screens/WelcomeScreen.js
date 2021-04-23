@@ -189,7 +189,7 @@ showModal = ()=>{
             this.showModal()
           }
         <View style={{justifyContent:'center', alignItems:'center'}}>
-          <Text style={styles.title}>Book Santa</Text>
+          <Text style={styles.title}>Barter</Text>
         </View>
         <View>
             <TextInput
